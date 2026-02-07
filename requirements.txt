@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+fzmovies-api
+pydantic
+requests
+beautifulsoup4
+brotli
